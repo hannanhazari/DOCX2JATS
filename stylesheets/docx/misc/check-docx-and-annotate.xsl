@@ -262,7 +262,7 @@
                     <m:naryLim m:val="undOvr"/>
                 </m:mathPr>
                 <w:attachedSchema w:val="ActionsPane3"/>
-                <w:themeFontLang w:val="en-GB"/>
+                <w:themeFontLang w:val="en-US"/>
                 <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1"
                                 w:accent2="accent2"
                                 w:accent3="accent3"
