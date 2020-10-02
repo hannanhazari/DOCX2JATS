@@ -1,0 +1,1847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.2 20190208//EN" "http://jats.nlm.nih.gov/publishing/1.2/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.2" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Ann Med Physiol</journal-id>
+			<journal-id journal-id-type="publisher-id">AMP</journal-id>
+			<journal-id journal-id-type="coden">AMPNCW</journal-id>
+			<journal-id journal-id-type="pmc">AMPHYSIOL</journal-id>
+			<journal-id journal-id-type="index" assigning-authority="RNI">TELENG/2018/75630</journal-id>
+			<journal-title-group>
+				<journal-title>Annals of Medical Physiology</journal-title>
+				<abbrev-journal-title>Ann Med Physiol</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2456-8422</issn>
+			<issn-l>2456-8422</issn-l>
+			<publisher>
+				<publisher-name>Quench Academy of Medical Education and Research (QAMER) Publishing House</publisher-name>
+				<publisher-loc>Hyderabad</publisher-loc>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi" assigning-authority="crossref">10.23921/amp.2020v4i1.94611</article-id>
+			<article-id pub-id-type="publisher-id">AMP-2020-03-03</article-id>
+			<article-id pub-id-type="manuscript">48-1584953629</article-id>
+			<article-id pub-id-type="publisher-id">94611</article-id>
+			<article-id pub-id-type="publisher-id">37</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original article</subject>
+				</subj-group>
+				<subj-group subj-group-type="Discipline-v3">
+					<subject>Medical sciences</subject>
+					<subj-group>
+						<subject>Physiology</subject>
+						<subj-group>
+							<subject>Cardiovascular physiology</subject>
+						</subj-group>
+						<subj-group>
+							<subject>Nutrition</subject>
+						</subj-group>
+					</subj-group>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Effect of tea and coffee consumption on the blood pressure, pulse wave velocity and aortic pressures in young healthy individuals</article-title>
+				<alt-title alt-title-type="running-head">Effect of tea and coffee on CVS</alt-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="no" xlink:type="simple">
+					<name name-style="western">
+						<surname>Fatima</surname>
+						<given-names>Farah</given-names>
+					</name>
+					<degrees>MBBS</degrees>
+					<role>Graduate Student</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="http://credit.niso.org/contributor-roles/investigation/">Data Collection</role>
+					<email>farah6531@gmail.com</email>
+					<xref ref-type="aff" rid="aff001">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="yes" xlink:type="simple">
+					<contrib-id contrib-id-type="orcid" assigning-authority="ORCID" authenticated="true">https://orcid.org/0000-0003-4097-7564</contrib-id>
+					<contrib-id contrib-id-type="scopus" assigning-authority="Elsevier">36650773600</contrib-id>
+					<contrib-id contrib-id-type="researcherid" assigning-authority="Web of Science">B-3688-2012</contrib-id>
+					<contrib-id contrib-id-type="publons" assigning-authority="Web of Science">305369</contrib-id>
+					<name name-style="western">
+						<surname>Hazari</surname>
+						<given-names>Mohammed Abdul Hannan</given-names>
+					</name>
+					<degrees>MBBS, MD, DNB</degrees>
+					<role>Professor &amp; Head</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Conceptualization" vocab-term-identifier="http://credit.niso.org/contributor-roles/conceptualization/">Conceptualization</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Formal analysis" vocab-term-identifier="http://credit.niso.org/contributor-roles/formal-analysis/">Data Analysis</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing - Original Draft" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-original-draft/">Writing - Original Draft</role>
+					<email>hannanhazari@deccancollegeofmedicalsciences.com</email>
+					<xref ref-type="aff" rid="aff001">
+						<sup>1</sup>
+					</xref>
+					<xref ref-type="corresp" rid="cor001">*</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="no" xlink:type="simple">
+					<contrib-id contrib-id-type="orcid" assigning-authority="ORCID" authenticated="true">https://orcid.org/0000-0002-9037-8108</contrib-id>
+					<contrib-id contrib-id-type="scopus" assigning-authority="Elsevier">55488905300</contrib-id>
+					<contrib-id contrib-id-type="researcherid" assigning-authority="Web of Science">B-3681-2012</contrib-id>
+					<contrib-id contrib-id-type="publons" assigning-authority="Web of Science">1687665</contrib-id>
+					<name name-style="western">
+						<surname>Arifuddin</surname>
+						<given-names>Mehnaaz Sameera</given-names>
+					</name>
+					<degrees>MBBS, MD, DNB</degrees>
+					<role>Associate Professor</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Supervision" vocab-term-identifier="http://credit.niso.org/contributor-roles/supervision/">Supervision</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Writing – review &amp; editing" vocab-term-identifier="http://credit.niso.org/contributor-roles/writing-review-editing/">Writing – review &amp; editing</role>
+					<email>mehnaaz@deccancollegeofmedicalsciences.com</email>
+					<xref ref-type="aff" rid="aff001">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author" corresp="no" xlink:type="simple">
+					<name name-style="western">
+						<surname>Tahreem</surname>
+						<given-names>Syed Abdul</given-names>
+					</name>
+					<degrees>MBBS</degrees>
+					<role>Graduate Student</role>
+					<role vocab="credit" vocab-identifier="http://credit.niso.org/" vocab-term="Investigation" vocab-term-identifier="http://credit.niso.org/contributor-roles/investigation/">Data Collection</role>
+					<email>abdul.tahreem@gmail.com</email>
+					<xref ref-type="aff" rid="aff001">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff001">
+				<label>1</label>
+				<institution content-type="dept">Department of Physiology</institution>
+				<institution-wrap>
+					<institution-id institution-id-type="ringgold">28620</institution-id>
+					<institution-id institution-id-type="isni">0000000417672452</institution-id>
+					<institution-id institution-id-type="ror" assigning-authority="Research Organization Registry">02akmdw70</institution-id>
+					<institution-id institution-id-type="grid" assigning-authority="Global Research Identifier Database">grid.413565.0</institution-id>
+					<institution content-type="edu">Deccan College of Medical Sciences</institution>
+				</institution-wrap>
+				<addr-line>DMRL &apos;X&apos; Road, Kanchanbagh</addr-line>
+				<city>Hyderabad</city>
+				<postal-code>500058</postal-code>
+				<state>Telangana</state>
+				<country country="in">India</country>
+			</aff>
+			<author-notes>
+				<fn fn-type="coi-statement" id="coi001">
+					<p>Financial and non-financial relationships and activities: None</p>
+				</fn>
+				<corresp id="cor001">* E-mail: <email xlink:type="simple">hannanhazari@deccancollegeofmedicalsciences.com</email>, Phone: <phone>+91-9160164070</phone>, Fax: <fax>+91-40-24340235</fax>
+				</corresp>
+			</author-notes>
+			<pub-date iso-8601-date="2020-06-30" publication-format="electronic" date-type="pub">
+				<day>30</day>
+				<month>06</month>
+				<year>2020</year>
+			</pub-date>
+			<pub-date iso-8601-date="2020-06-30" publication-format="print" date-type="pub">
+				<day>30</day>
+				<month>06</month>
+				<year>2020</year>
+			</pub-date>
+			<volume>4</volume>
+			<issue>1</issue>
+			<fpage>3</fpage>
+			<lpage>11</lpage>
+			<history>
+				<date iso-8601-date="2020-03-23" date-type="received">
+					<day>23</day>
+					<month>03</month>
+					<year>2020</year>
+				</date>
+				<date iso-8601-date="2020-05-26" date-type="rev-recd">
+					<day>26</day>
+					<month>05</month>
+					<year>2020</year>
+				</date>
+				<date iso-8601-date="2020-05-27" date-type="accepted">
+					<day>27</day>
+					<month>05</month>
+					<year>2020</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>Copyright © 2020. Quench Academy of Medical Education and Research (QAMER)</copyright-statement>
+				<copyright-year>2020</copyright-year>
+				<copyright-holder>Quench Academy of Medical Education and Research (QAMER)</copyright-holder>
+				<ali:free_to_read xmlns:ali="http://www.niso.org/schemas/ali/1.0/"/>
+				<license license-type="open-access">
+					<ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+					<license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/" xlink:type="simple">Creative Commons Attribution License</ext-link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</license-p>
+				</license>
+			</permissions>
+			<self-uri content-type="pdf" xlink:href="http://amphysiol.com/index.php/amp/article/view/v4i1.94611/2020_3_11.pdf"/>
+			<self-uri content-type="xml" xlink:href="http://amphysiol.com/index.php/amp/article/view/v4i1.94611/2020_3_11.xml"/>
+			<self-uri content-type="html" xlink:href="http://amphysiol.com/index.php/amp/article/view/v4i1.94611/2020_3_11.html"/>
+			<abstract>
+				<p>Caffeine present in tea and coffee, the most commonly used beverages, has been implicated to have long term effects on cardiovascular system. The aim of this study was to document the acute and chronic effects of tea and coffee consumption on blood pressure, pulse wave velocity and aortic pressures in young, healthy individuals. This observational study was conducted on 86 healthy MBBS student volunteers of both genders between the age group of 18-27 years. Cardiovascular parameters (heart rate, peripheral blood pressure, central blood pressure, pulse wave velocity, augmentation pressure) were measured using PeriScope™. Participants were divided into 3 groups based on their history of consuming tea/coffee/both/none. Data collected was analyzed using SPSS 17.0. ANOVA or Welsh test of equality of means was used for knowing the differences for scale variables. Paired sample t test was used to know the acute effect of coffee consumption among group 1 participants in a before-after design. In regular tea consumers, the bilateral brachial SBP, DBP and MAP were significantly higher than individuals who did not consume tea regularly; similar results in these parameters were also observed in regular coffee drinkers. However the lower limb arterial parameters were not markedly differently in tea/coffee group compared to non-drinkers. In both tea and coffee group, AoSP and AoDP were significantly higher than non-drinkers. Additionally, coffee drinking has acute stimulatory effects on CVS as evident by increase in peripheral and central vascular parameters.</p>
+			</abstract>
+			<kwd-group kwd-group-type="author-keywords">
+				<title>Keywords</title>
+				<kwd>Blood pressure</kwd>
+				<kwd>Coffee</kwd>
+				<kwd>Hypertension</kwd>
+				<kwd>Tea</kwd>
+			</kwd-group>
+			<funding-group specific-use="crossref">
+				<award-group id="award001">
+					<funding-source country="IN">
+						<institution-wrap>
+							<institution-id institution-id-type="doi" vocab="open-funder-registry" vocab-identifier="10.13039/open-funder-registry">10.13039/501100001411</institution-id>
+							<institution>Indian Council of Medical Research</institution>
+						</institution-wrap>
+					</funding-source>
+					<award-id award-type="grant">IRIS ID: 2012-0836</award-id>
+					<principal-award-recipient>
+						<contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-4097-7564</contrib-id>
+						<name name-style="western">
+							<surname>Hazari</surname>
+							<given-names>Mohammed Abdul Hannan</given-names>
+						</name>
+					</principal-award-recipient>
+				</award-group>
+				<funding-statement>This study was partly supported by ICMR Extramural research grant (IRIS ID: 2012-0836; Principal Investigator: Dr. Mohammed Abdul Hannan Hazari).</funding-statement>
+			</funding-group>
+			<counts>
+				<fig-count count="6"/>
+				<table-count count="3"/>
+				<ref-count count="24"/>
+				<page-count count="9"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec>
+			<title>Introduction</title>
+			<p>Commonly consumed hot beverages worldwide are tea and coffee. Caffeine is the pharmacologically active ingredient in both the drinks, though less in tea than in coffee. There has always been a dilemma in the population as to whether drinking tea or coffee is beneficial to health or not. Even among researchers and health care providers there is no consensus regarding effect on the cardiovascular system (CVS); studies carried out to assess the long term effects of tea and coffee consumption reported equivocal results <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref001">1</xref>,<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref002">2</xref>,<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref003">3</xref>,<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref004">4</xref>,<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref005">5</xref>,<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref006">6</xref>]</bold>.</p>
+			<p>Many studies suggests harmful outcome on CVS among tea drinkers and few claiming beneficial effect <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref006">6</xref>]</bold>. Black tea increased pulse wave velocity (PWV) during the first 90 minutes showing a rapid return towards baseline after 3 hours whereas green tea had no effect. However, both black and green tea increased augmentation index <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref007">7</xref>]</bold>. A recent study done in hypertensives showed that black tea consumption lowers pulse wave reflections and blood pressure (BP) in the fasting state and up to 4 hours after food intake <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref008">8</xref>]</bold>. The reasons for differing results may be many; one important factor responsible for these conflicting results lies in the fact that effect of caffeine present in tea may be reduced by tea flavonoids <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref009">9</xref>]</bold>. Other reason may be the type of tea being consumed—black tea (decoction), tea with milk and green tea and the quantity in which it is consumed.</p>
+			<p>Caffeine present in coffee acutely increases brachial BP and vascular resistance (PVR). Also pressure in central (aorta) artery increases indicating rise in arterial stiffness <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref010">10</xref>]</bold>. Chronic coffee consumption exerts a detrimental effect on aortic stiffness and wave reflections, which may increase the risk of cardiovascular disease <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref011">11</xref>]</bold>. Long term coffee consumption increases risk of acute coronary syndrome <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref012">12</xref>]</bold> but a Finnish study reported no association between coffee consumption and heart disease <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref001">1</xref>]</bold>. Experimental administration of caffeine increases both heart rate and blood pressure over one hour duration <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref013">13</xref>]</bold>. Contrary to these adverse cardiovascular outcome reported, few studies concluded that coffee consumption is associated with reduced mortality due to cardiovascular disease <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref014">14</xref>, <xref ref-type="bibr" rid="amp.2020v4i1.94611.ref015">15</xref>]</bold>.</p>
+			<p>Cardiovascular effects of caffeine seem to be mediated mainly by blockade of both α1 and α2 adenosine receptors <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref010">10</xref>]</bold>.</p>
+			<p>In Indian scenario, the form of tea consumed is different from the western world; people in Indian sub-continent drink tea with added milk and sugar where as majority in western countries consume black tea. Also coffee consumption is relatively less in India compared to the western countries.</p>
+			<p>There are relatively few studies comparing the acute and chronic effects of tea and coffee consumption on heart and blood vessels. The purpose of this study was to assess the acute (short-term) and chronic (long-term) effects of tea and coffee consumption on blood pressure, pulse wave velocity, aortic pressures. The findings of this study will enlighten the influence of tea/coffee on cardiovascular parameters in our ethnic population.</p>
+		</sec>
+		<sec>
+			<title>Materials and methods</title>
+			<p>This observational study was conducted in the Department of Physiology during May and June 2018 after approval from the Institutional Review Board (Ref. No.: 2016/11/005).</p>
+			<sec>
+				<title>Participants</title>
+				<sec>
+					<title>Inclusion criteria:</title>
+					<p>86 healthy young MBBS student volunteers belonging to both genders in the age group of 18 to 27 years with or without history of regular consumption of either tea or coffee were enrolled. Informed written consent was obtained from all the participants.</p>
+				</sec>
+				<sec>
+					<title>Exclusion criteria:</title>
+					<p>Individuals with history of congenital or valvular heart disease, coarctation of aorta, renal vessel stenosis, vasculitis and any other secondary cause of hypertension were excluded. Subjects with any acute or chronic disorders having significant effect of cardiovascular parameters were also excluded. People habituated to other caffeinated drinks were also excluded.</p>
+				</sec>
+			</sec>
+			<sec>
+				<title>Methodology</title>
+				<p>Cardiovascular parameters:</p>
+				<p>Heart rate (HR), peripheral blood pressure (BP), central (aortic) blood pressure, pulse wave velocity (PWV), augmentation pressure (AugP) was measured by PC based Cardiovascular analyzer - PeriScope™ (Genesis Medical Systems Pvt. Ltd., Hyderabad, India). Heat rate is derived from Lead I and II electrocardiogram (ECG). Peripheral blood pressure is recorded from brachial artery in upper limbs and from posterior tibial artery in lower limbs. The central blood pressure parameters and pulse wave velocities are determined using transfer functions from peripheral pulse waveforms.</p>
+				<sec>
+					<title>Study protocol:</title>
+					<p>Relevant history was taken from all the volunteers and a standard validated and reliable beverage questionnaire was administered (Annexure 1) with customization with respect to the quantity <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref016">16</xref>]</bold>. We used 4 different size cups which are widely available in Indian market and labelled them as C1, C2, C3, C4 having capacity of 280 ml, 180 ml, 120 ml and 85 ml respectively. This beverage questionnaire consists of all the types of fluids usually consumed. We focussed on 2 beverages — tea and coffee. Depending on the answers to these questions, participants were segregated into 3 groups as follows.</p>
+					<p>
+						<italic>Group-1 (None):</italic> Participants with no history of regular consumption of either tea or coffee (may or may not have history of occasional consumption)</p>
+					<p>
+						<italic>Group-2 (Tea):</italic> Participants who are regular consumers’ of tea (atleast one cup [~120ml] of tea per day for more than a year)</p>
+					<p>
+						<italic>Group-3 (Coffee):</italic> Participants who are regular consumers’ of coffee (atleast one cup [~120ml] of coffee per day for more than a year)</p>
+					<p>An approximate estimate of caffeine consumed in tea or coffee was calculated using National Institute of Nutrition, Hyderabad, India guidelines <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref017">17</xref>]</bold>.</p>
+					<p>PeriScope test was performed in a quiet room in all the three groups. In Group-1 (None), baseline recording was done after 12 hour abstinence from any caffeinated drink. Additionally for noting the acute effects of coffee consumption in this group, 145 ml of coffee (prepared by mixing 120 ml hot water to commercially available coffee premix of 25 grams of same brand containing Milk solids-56%, Soluble coffee powder-6% &amp; Sugar) was administered under supervision. A second recording was done after 1 hour of coffee administration to document the acute effects.</p>
+				</sec>
+				<sec>
+					<title>Data tabulation and statistics:</title>
+					<p>Data obtained was tabulated in MS Excel 2007 and analyzed using SPSS for Windows version 17.0 (SPSS Inc., Chicago, IL, USA). Categorical data is presented as numbers and percentages where scale variables are presented as mean ± standard deviation (SD). One-way analysis of variance (ANOVA) or Welsh test of equality of means was used (depending on significance of Levene test of homogeneity of variances) for scale variables to determine the differences between the groups. Paired sample T-test was used to know the acute effects of coffee drinking in Group-1 with a Before-After design. Statistical significance is fixed at p&lt;0.05.</p>
+				</sec>
+			</sec>
+		</sec>
+		<sec>
+			<title>Results</title>
+			<table-wrap id="amp.2020v4i1.94611.t001" specific-use="rules">
+				<label>Table 1</label>
+				<caption>
+					<title>Participants’ demographic profile</title>
+				</caption>
+				<table>
+					<colgroup>
+						<col align="left" valign="middle"/>
+						<col align="center" valign="middle"/>
+						<col align="center" valign="middle"/>
+						<col align="center" valign="middle"/>
+						<col align="center" valign="middle"/>
+					</colgroup> 
+					<thead>
+						<tr>
+							<th colspan="2">Parameter</th>
+							<th>None (N=26)</th>
+							<th>Tea (N=32)</th>
+							<th>Coffee (N=28)</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td colspan="2">Age (years)</td>
+							<td>20.50±1.27</td>
+							<td>20.09±1.35</td>
+							<td>19.93±1.36</td>
+						</tr>
+						<tr>
+							<td rowspan="2">Gender</td>
+							<td>Male</td>
+							<td>11(42.3%)</td>
+							<td>16(50.0%)</td>
+							<td>16(57.1%)</td>
+						</tr>
+						<tr>
+							<td>Female</td>
+							<td>15(57.7%)</td>
+							<td>16(50.0%)</td>
+							<td>12(42.9%)</td>
+						</tr>
+						<tr>
+							<td rowspan="4">H/O HTN in Parents</td>
+							<td>No</td>
+							<td>11(42.3%)</td>
+							<td>9(28.1%)</td>
+							<td>16(57.1%)</td>
+						</tr>
+						<tr>
+							<td>Only father</td>
+							<td>11(42.3%)</td>
+							<td>15(46.9%)</td>
+							<td>9(32.1%)</td>
+						</tr>
+						<tr>
+							<td>Only mother</td>
+							<td>3(11.5%)</td>
+							<td>7(21.9%)</td>
+							<td>3(10.7%)</td>
+						</tr>
+						<tr>
+							<td>Both parents</td>
+							<td>1(3.8%)</td>
+							<td>1(3.1%)</td>
+							<td>0(0%)</td>
+						</tr>
+						<tr>
+							<td rowspan="4">H/O DM in Parents</td>
+							<td>No</td>
+							<td>15(57.7%)</td>
+							<td>14(43.8%)</td>
+							<td>16(57.1%)</td>
+						</tr>
+						<tr>
+							<td>Only father</td>
+							<td>7(26.9%)</td>
+							<td>12(37.5%)</td>
+							<td>11(39.3%)</td>
+						</tr>
+						<tr>
+							<td>Only mother</td>
+							<td>2(7.7%)</td>
+							<td>5(15.6%)</td>
+							<td>1(3.6%)</td>
+						</tr>
+						<tr>
+							<td>Both parents</td>
+							<td>2(7.7%)</td>
+							<td>1(3.1%)</td>
+							<td>0(0%)</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+			<p>Out of 86 participants, one individual gave history of consumption of equal quantity of tea and coffee on a daily basis but was considered in tea group for analysis</p>
+			<table-wrap id="amp.2020v4i1.94611.t002" specific-use="rules">
+				<label>Table 2</label>
+				<caption>
+					<title>Differences between peripheral and central arterial pressure parameters</title>
+				</caption>
+				<table>
+					<colgroup>
+						<col align="left" valign="middle"/>
+						<col align="center" valign="middle"/>
+						<col align="center" valign="middle"/>
+						<col align="center" valign="middle"/>
+						<col align="center" valign="middle"/>
+					</colgroup> 
+					<thead>
+						<tr>
+							<th>Parameter</th>
+							<th>None (N=26)</th>
+							<th>>Tea (N=32)</th>
+							<th>Coffee (N=28)</th>
+							<th>p value</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Right arm SBP (mmHg)</td>
+							<td>102.96±5.30</td>
+							<td>119.25±10.50</td>
+							<td>113.21±9.08</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Left arm SBP (mmHg)</td>
+							<td>104.38±4.92</td>
+							<td>116.94±9.48</td>
+							<td>114.14±8.51</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Right ankle SBP (mmHg)</td>
+							<td>116.88±6.30</td>
+							<td>121.78±11.51</td>
+							<td>121.54±15.50</td>
+							<td>0.232</td>
+						</tr>
+						<tr>
+							<td>Left ankle SBP (mmHg)</td>
+							<td>117.38±6.62</td>
+							<td>124.88±14.00</td>
+							<td>123.61±17.63</td>
+							<td>0.100</td>
+						</tr>
+						<tr>
+							<td>Right arm DBP (mmHg)</td>
+							<td>59.42±5.96</td>
+							<td>67.03±6.03</td>
+							<td>63.46±8.98</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Left arm DBP (mmHg)</td>
+							<td>58.65±5.50</td>
+							<td>66.25±5.58</td>
+							<td>65.61±9.26</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Right ankle DBP (mmHg)</td>
+							<td>61.81±6.38</td>
+							<td>63.84±5.76</td>
+							<td>64.11±6.79</td>
+							<td>0.344</td>
+						</tr>
+						<tr>
+							<td>Left ankle DBP (mmHg)</td>
+							<td>62.50±4.24</td>
+							<td>66.81±7.52</td>
+							<td>66.04±8.23</td>
+							<td>0.014*</td>
+						</tr>
+						<tr>
+							<td>Right arm PP (mmHg)</td>
+							<td>48.46±6.03</td>
+							<td>52.22±8.08</td>
+							<td>49.75±7.66</td>
+							<td>0.146</td>
+						</tr>
+						<tr>
+							<td>Left arm PP (mmHg)</td>
+							<td>47.96±6.19</td>
+							<td>50.69±7.53</td>
+							<td>49.00±7.39</td>
+							<td>0.339</td>
+						</tr>
+						<tr>
+							<td>Right ankle PP (mmHg)</td>
+							<td>56.04±6.09</td>
+							<td>57.81±8.54</td>
+							<td>60.04±10.10</td>
+							<td>0.225</td>
+						</tr>
+						<tr>
+							<td>Left ankle PP (mmHg)</td>
+							<td>56.31±6.72</td>
+							<td>58.16±9.36</td>
+							<td>60.14±9.42</td>
+							<td>0.272</td>
+						</tr>
+						<tr>
+							<td>Right arm MAP (mmHg)</td>
+							<td>73.81±5.80</td>
+							<td>82.00±6.86</td>
+							<td>78.14±8.58</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Left arm MAP (mmHg)</td>
+							<td>74.65±4.47</td>
+							<td>81.78±6.12</td>
+							<td>80.00±7.88</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Right ankle MAP (mmHg)</td>
+							<td>75.96±4.21</td>
+							<td>79.19±6.48</td>
+							<td>79.46±7.74</td>
+							<td>0.086</td>
+						</tr>
+						<tr>
+							<td>Left ankle MAP (mmHg)</td>
+							<td>77.35±3.63</td>
+							<td>84.19±8.52</td>
+							<td>82.14±10.34</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Aortic SP (mmHg)</td>
+							<td>86.31±6.07</td>
+							<td>98.22±9.09</td>
+							<td>94.29±8.03</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Aortic DP (mmHg)</td>
+							<td>59.23±4.77</td>
+							<td>66.94±5.32</td>
+							<td>64.43±7.70</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Aortic PP (mmHg)</td>
+							<td>27.73±4.39</td>
+							<td>32.31±9.99</td>
+							<td>29.36±5.24</td>
+							<td>0.053</td>
+						</tr>
+						<tr>
+							<td>Aortic AugP (mmHg)</td>
+							<td>1.27±1.19</td>
+							<td>2.03±2.18</td>
+							<td>1.79±1.85</td>
+							<td>0.189</td>
+						</tr>
+						<tr>
+							<td>Aortic AIx (%)</td>
+							<td>4.12±3.59</td>
+							<td>6.25±7.47</td>
+							<td>5.96±5.90</td>
+							<td>0.216</td>
+						</tr>
+						<tr>
+							<td>Right hbPWV (cm/s)</td>
+							<td>251.85±23.87</td>
+							<td>280.47±30.15</td>
+							<td>255.14±29.82</td>
+							<td>0.000*</td>
+						</tr>
+						<tr>
+							<td>Left hbPWV (cm/s)</td>
+							<td>253.96±23.37</td>
+							<td>275.75±41.85</td>
+							<td>254.75±25.65</td>
+							<td>0.015*</td>
+						</tr>
+						<tr>
+							<td>Right haPWV (cm/s)</td>
+							<td>403.15±28.11</td>
+							<td>422.53±28.12</td>
+							<td>410.82±31.62</td>
+							<td>0.044*</td>
+						</tr>
+						<tr>
+							<td>Left haPWV (cm/s)</td>
+							<td>403.19±27.75</td>
+							<td>444.44±82.03</td>
+							<td>413.07±32.25</td>
+							<td>0.014*</td>
+						</tr>
+						<tr>
+							<td>cfPWV (cm/s)</td>
+							<td>612.00±64.59</td>
+							<td>634.67±62.08</td>
+							<td>656.08±86.72</td>
+							<td>0.084</td>
+						</tr>
+						<tr>
+							<td>Right baPWV (cm/s)</td>
+							<td>1027.12±89.86</td>
+							<td>1020.82±69.95</td>
+							<td>1060.13±99.55</td>
+							<td>0.186</td>
+						</tr>
+						<tr>
+							<td>Left baPWV (cm/s)</td>
+							<td>1026.62±90.62</td>
+							<td>997.53±379.69</td>
+							<td>1073.87±120.34</td>
+							<td>0.490</td>
+						</tr>
+					</tbody>
+				</table>
+			</table-wrap>
+			<p>
+				<bold>
+					<xref ref-type="table" rid="amp.2020v4i1.94611.t002">Table 2</xref>
+				</bold> and <bold>
+					<xref ref-type="fig" rid="amp.2020v4i1.94611.f001">Figure 1</xref>
+				</bold> depicts the peripheral and central arterial pressure parameters of 3 groups i.e. Group-1 (No history of regular consumption of tea or coffee), Group-2 (Regular consumer of tea) and Group-3 (Regular consumer of coffee). In general, all the parameters were higher in tea or coffee groups compared to Group-1.</p>
+			<sec>
+				<title>Differences in upper limb parameters between different groups</title>
+				<p>In regular consumers of tea the bilateral brachial SBP (p=0000), bilateral DBP (p=0.000), bilateral MAP (p&lt;0.05) was significantly higher than the individuals who are not regular consumers. Similar results were obtained for regular coffee drinkers i.e. bilateral SBP (p=0.000), left brachial DBP (p=0.005), and bilateral MAP (p&lt;0.05) was significantly higher than the individuals who are not regular consumers. The PP in both upper limbs did not significantly vary between tea/coffee group and Group-1. The differences in cardiovascular parameters between tea and coffee group were not significant.</p>
+				<fig id="amp.2020v4i1.94611.f001" position="float">
+					<label>Figure 1</label>
+					<caption>
+						<title>Blood pressure parameters among different groups</title>
+					</caption>
+					<graphic mimetype="image" xlink:href="http://amphysiol.com/files/journals/1/articles/37/submission/proof/amp.2020v4i1.94611.f001.png" xlink:type="simple"/>
+				</fig>
+			</sec>
+			<sec>
+				<title>Differences in lower limb parameters between different groups</title>
+				<p>In regular consumers of tea, the following parameters were not significant compared to Group 1: right ankle SBP (p=0.120), right ankle DBP (p=0.224), right ankle PP (p=0.429), left ankle PP (p=0.422) and right ankle MAP (p=0.058). Few significant parameters were: left ankle SBP (p=0.041), left ankle DBP (p=0.02) and left ankle MAP (p=0.001).</p>
+				<p>No significant differences were noted in regular coffee drinkers versus Group 1 with respect to the following parameters: right ankle SBP (p=0.152), left ankle SBP (p=0.099), right ankle DBP (p=0.184), left ankle DBP (p=0.147), right ankle PP (p=0.086), left ankle PP (p=0.108) and left ankle MAP (p=0.080). Only significantly different variable was right ankle MAP (p=0.047).</p>
+				<p>None of the lower limb blood pressure variables differed significantly between tea and coffee group.</p>
+			</sec>
+			<sec>
+				<title>Differences in central arterial parameters between different groups</title>
+				<p>Similar findings were noted pertaining to AoSP and AoDP wherein the values in both tea and coffee group were significantly higher than the Group 1 (<bold>
+						<xref ref-type="fig" rid="amp.2020v4i1.94611.f002">Figure 2</xref>
+					</bold>). The AoSP and AoDP values were not statistically different between tea and coffee group. The AoPP was statistically significantly high only in tea group and not in coffee group in comparison with Group 1. The AoAugP and AIx did not show any significant difference between the three groups (<bold>
+						<xref ref-type="table" rid="amp.2020v4i1.94611.t002">Table 2</xref>
+					</bold>). Bilateral heart-brachial PWV (hbPWV) and heart-ankle PWV (haPWV) values were significantly higher in regular consumers of tea but not in coffee group in contrast to individuals who are not regular consumers of either tea or coffee (<bold>
+						<xref ref-type="fig" rid="amp.2020v4i1.94611.f003">Figure 3</xref>
+					</bold>); also the differences between tea and coffee group were significant except right haPWV. The bilateral brachial-ankle PWV (baPWV) and carotid-femoral PWV (cfPWV) did not show significant differences among three groups (<bold>
+						<xref ref-type="table" rid="amp.2020v4i1.94611.t002">Table 2</xref>
+					</bold>, <bold>
+						<xref ref-type="fig" rid="amp.2020v4i1.94611.f003">Figure 3</xref>
+					</bold>).</p>
+				<fig id="amp.2020v4i1.94611.f002" position="float">
+					<label>Figure 2</label>
+					<caption>
+						<title>Aortic pressures among various groups</title>
+					</caption>
+					<graphic mimetype="image" xlink:href="http://amphysiol.com/files/journals/1/articles/37/submission/proof/amp.2020v4i1.94611.f002.png" xlink:type="simple"/>
+				</fig>
+				<fig id="amp.2020v4i1.94611.f003" position="float">
+					<label>Figure 3</label>
+					<caption>
+						<title>Pulse wave velocities among various groups</title>
+					</caption>
+					<graphic mimetype="image" xlink:href="http://amphysiol.com/files/journals/1/articles/37/submission/proof/amp.2020v4i1.94611.f003.png" xlink:type="simple"/>
+				</fig>
+			</sec>
+			<sec>
+				<title>Acute changes in CVS after consuming coffee</title>
+				<p>There was an acute rise in SBP, DBP, PP, MAP compared to baseline after coffee consumption which was mostly statistically significant (<bold>
+						<xref ref-type="table" rid="amp.2020v4i1.94611.t003">Table 3</xref>
+					</bold>, <bold>
+						<xref ref-type="fig" rid="amp.2020v4i1.94611.f004">Figure 4</xref>
+					</bold>).</p>
+				<p>Aortic SP, aortic DP, aortic PP, aortic index, pulse wave velocities also showed significant rise after coffee consumption (<bold>
+						<xref ref-type="table" rid="amp.2020v4i1.94611.t003">Table 3</xref>
+					</bold>, <bold>
+						<xref ref-type="fig" rid="amp.2020v4i1.94611.f005">Figure 5</xref>
+					</bold>, <bold>
+						<xref ref-type="fig" rid="amp.2020v4i1.94611.f006">Figure 6</xref>
+					</bold>).</p>
+				<table-wrap id="amp.2020v4i1.94611.t003" specific-use="rules">
+					<label>Table 3</label>
+					<caption>
+						<title>Acute effects of coffee consumption on CVS parameters</title>
+					</caption>
+					<table>
+						<colgroup>
+							<col align="left" valign="middle"/>
+							<col align="center" valign="middle"/>
+							<col align="center" valign="middle"/>
+							<col align="center" valign="middle"/>
+						</colgroup> 
+						<thead>
+							<tr>
+								<th/>
+								<th>Baseline</th>
+								<th>1 hour after coffee consumption</th>
+								<th>p value</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Right arm SBP (mmHg)</td>
+								<td>102.96±5.30</td>
+								<td>111.35±8.31</td>
+								<td>0.000*</td>
+							</tr>
+							<tr>
+								<td>Left arm SBP (mmHg)</td>
+								<td>104.38±4.92</td>
+								<td>111.58±7.06</td>
+								<td>0.000*</td>
+							</tr>
+							<tr>
+								<td>Right ankle SBP (mmHg)</td>
+								<td>116.88±6.30</td>
+								<td>122.42±8.30</td>
+								<td>0.000*</td>
+							</tr>
+							<tr>
+								<td>Left ankle SBP (mmHg)</td>
+								<td>117.38±6.62</td>
+								<td>122.65±9.43</td>
+								<td>0.001*</td>
+							</tr>
+							<tr>
+								<td>Right arm DBP (mmHg)</td>
+								<td>59.42±5.96</td>
+								<td>61.62±7.51</td>
+								<td>0.095</td>
+							</tr>
+							<tr>
+								<td>Left arm DBP (mmHg)</td>
+								<td>58.65±5.50</td>
+								<td>62.15±6.08</td>
+								<td>0.002*</td>
+							</tr>
+							<tr>
+								<td>Right ankle DBP (mmHg)</td>
+								<td>61.81±6.38</td>
+								<td>65.12±7.99</td>
+								<td>0.002*</td>
+							</tr>
+							<tr>
+								<td>Left ankle DBP (mmHg)</td>
+								<td>62.50±4.24</td>
+								<td>66.46±7.97</td>
+								<td>0.003*</td>
+							</tr>
+							<tr>
+								<td>Right arm PP (mmHg)</td>
+								<td>48.46±6.03</td>
+								<td>50.46±6.45</td>
+								<td>0.032*</td>
+							</tr>
+							<tr>
+								<td>Left arm PP (mmHg)</td>
+								<td>47.96±6.19</td>
+								<td>50.12±6.13</td>
+								<td>0.082</td>
+							</tr>
+							<tr>
+								<td>Right ankle PP (mmHg)</td>
+								<td>56.04±6.09</td>
+								<td>58.92±6.79</td>
+								<td>0.027*</td>
+							</tr>
+							<tr>
+								<td>Left ankle PP (mmHg)</td>
+								<td>56.31±6.72</td>
+								<td>57.38±7.21</td>
+								<td>0.447</td>
+							</tr>
+							<tr>
+								<td>Right arm MAP (mmHg)</td>
+								<td>73.81±5.80</td>
+								<td>76.23±7.20</td>
+								<td>0.077</td>
+							</tr>
+							<tr>
+								<td>Left arm MAP (mmHg)</td>
+								<td>74.65±4.47</td>
+								<td>77.35±5.82</td>
+								<td>0.009*</td>
+							</tr>
+							<tr>
+								<td>Right ankle MAP (mmHg)</td>
+								<td>75.96±4.21</td>
+								<td>79.69±7.23</td>
+								<td>0.001*</td>
+							</tr>
+							<tr>
+								<td>Left ankle MAP (mmHg)</td>
+								<td>77.35±3.63</td>
+								<td>82.27±7.28</td>
+								<td>0.000*</td>
+							</tr>
+							<tr>
+								<td>Aortic SP (mmHg)</td>
+								<td>86.31±6.07</td>
+								<td>93.12±7.15</td>
+								<td>0.000*</td>
+							</tr>
+							<tr>
+								<td>Aortic DP (mmHg)</td>
+								<td>59.23±4.77</td>
+								<td>62.73±5.77</td>
+								<td>0.001*</td>
+							</tr>
+							<tr>
+								<td>Aortic PP (mmHg)</td>
+								<td>27.73±4.39</td>
+								<td>30.04±4.38</td>
+								<td>0.004*</td>
+							</tr>
+							<tr>
+								<td>Aortic AugP (mmHg)</td>
+								<td>1.27±1.19</td>
+								<td>1.73±1.54</td>
+								<td>0.149</td>
+							</tr>
+							<tr>
+								<td>Aortic AIx (%)</td>
+								<td>4.12±3.59</td>
+								<td>6.58±4.02</td>
+								<td>0.003*</td>
+							</tr>
+							<tr>
+								<td>Right hbPWV (cm/s)</td>
+								<td>251.85±23.87</td>
+								<td>264.42±33.77</td>
+								<td>0.008*</td>
+							</tr>
+							<tr>
+								<td>Left hbPWV (cm/s)</td>
+								<td>253.96±23.37</td>
+								<td>266.15±35.99</td>
+								<td>0.026*</td>
+							</tr>
+							<tr>
+								<td>Right haPWV (cm/s)</td>
+								<td>403.15±28.11</td>
+								<td>419.00±31.55</td>
+								<td>0.001*</td>
+							</tr>
+							<tr>
+								<td>Left haPWV (cm/s)</td>
+								<td>403.19±27.75</td>
+								<td>422.54±31.53</td>
+								<td>0.000*</td>
+							</tr>
+							<tr>
+								<td>cfPWV (cm/s)</td>
+								<td>612.00±64.59</td>
+								<td>661.87±46.48</td>
+								<td>0.002*</td>
+							</tr>
+							<tr>
+								<td>Right baPWV (cm/s)</td>
+								<td>1027.12±89.86</td>
+								<td>1071.77±69.06</td>
+								<td>0.003*</td>
+							</tr>
+							<tr>
+								<td>Left baPWV (cm/s)</td>
+								<td>1026.62±90.62</td>
+								<td>1080.69±82.51</td>
+								<td>0.003*</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+				<fig id="amp.2020v4i1.94611.f004" position="float">
+					<label>Figure 4</label>
+					<caption>
+						<title>Mean increase in blood pressure values 1 hour after coffee consumption</title>
+					</caption>
+					<graphic mimetype="image" xlink:href="http://amphysiol.com/files/journals/1/articles/37/submission/proof/amp.2020v4i1.94611.f004.png" xlink:type="simple"/>
+				</fig>
+				<fig id="amp.2020v4i1.94611.f005" position="float">
+					<label>Figure 5</label>
+					<caption>
+						<title>Increase in central aortic pressure parameters 1 hour after coffee consumption</title>
+					</caption>
+					<graphic mimetype="image" xlink:href="http://amphysiol.com/files/journals/1/articles/37/submission/proof/amp.2020v4i1.94611.f005.png" xlink:type="simple"/>
+				</fig>
+				<fig id="amp.2020v4i1.94611.f006" position="float">
+					<label>Figure 6</label>
+					<caption>
+						<title>Increase in PWV 1 hour after coffee consumption</title>
+					</caption>
+					<graphic mimetype="image" xlink:href="http://amphysiol.com/files/journals/1/articles/37/submission/proof/amp.2020v4i1.94611.f006.png" xlink:type="simple"/>
+				</fig>
+			</sec>
+		</sec>
+		<sec>
+			<title>Discussion</title>
+			<p>Studies carried out to assess the long term effects of tea and coffee consumption reported equivocal results <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref018">18</xref>,<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref019">19</xref>]</bold>. One of the reasons may be the form and quantity in which it is consumed and another reason being that the tea flavanoids reduces the effect of caffeine <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref009">9</xref>]</bold>. The tea flavanoids are also known to improve the vascular endothelial functions <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref020">20</xref>]</bold>. Several studies reported effects of tea and coffee drinking on CVS and few studied the effects on other systems as well. Kokubo et al <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref021">21</xref>]</bold> and Tian et al <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref022">22</xref>]</bold> concluded that higher consumption of green tea and coffee has lower risk of CVD and stroke.</p>
+			<p>In our study, individuals who were habitual drinkers of tea had raised systolic, diastolic and mean arterial blood pressures which were in consonance of an Iranian study <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref006">6</xref>]</bold> but is in disagreement with many studies reporting blood pressure lowering effect of moderate quantity of tea in habitual tea drinkers. In our view this distinction with many studies (western literature) might be due to the form of tea consumed in India—tea with milk and sugar; and the quantity in which it is consumed. Acute rise in blood pressure after tea consumption is also documented by Hodgson et al <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref009">9</xref>]</bold>. We did not study the acute effects of tea consumption on CVS parameters.</p>
+			<p>Our study results also show that the peripheral arterial and central arterial pressures were high in habitual drinkers of coffee. A meta-analysis of the effects of chronic coffee consumption by Jee et al <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref019">19</xref>]</bold> also concluded significantly higher blood pressure values in younger populations which is true for our participants too. Noordzij et al concluded that caffeine intake increases blood pressure but when ingested through coffee the blood pressure effect of caffeine is not marked <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref023">23</xref>]</bold>.</p>
+			<p>The novelty of our study was assessment of central arterial parameters in relation to tea and coffee consumption. We found that the tea and coffee group had higher levels of aortic systolic and aortic diastolic pressures compared to non-habitual drinkers of tea and coffee indicating increased arterial stiffness. In habitual tea drinkers heart-brachial PWV (hbPWV) and heart-ankle PWV (haPWV) values were higher while brachial-ankle PWV (baPWV) was lower than non-habitual drinkers in our study which is similar to the findings of the Chinese study <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref024">24</xref>]</bold>. The changes in the hbPWV and haPWV in coffee group was not significantly different from non-drinkers. Though right and left baPWV was lower in tea group and higher in coffee group compared to non regular consumers, these changes were not statistically significant. Vlachopoulos et al reported significantly higher PWV values in regular coffee consumers <bold>[<xref ref-type="bibr" rid="amp.2020v4i1.94611.ref011">11</xref>]</bold>. The cfPWV values were notably high in coffee group (p=0.027) but not in tea group (p=0.235) compared to Group 1.</p>
+			<p>We also studied the acute effects of coffee consumption on peripheral and central arterial parameters. Brachial and ankle systolic, diastolic and mean arterial pressures rose after 60 minutes of consuming a known quantity of coffee. Aortic SP, aortic DP, aortic PP, aortic index, pulse wave velocities also showed significant rise after coffee consumption.</p>
+		</sec>
+		<sec>
+			<title>Conclusion</title>
+			<p>Regular consumption of tea or coffee causes comparable rise in peripheral and central vascular parameters but the rise is not significant statistically. Coffee drinking also has significant acute stimulatory effects on CVS as evident by increase in peripheral and central vascular parameters. So, we conclude that excessive indulgence in tea or coffee consumption may increase the risk of arterial stiffness thereby detrimental in development of CVD.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<p>None</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="amp.2020v4i1.94611.ref001">
+				<label>1</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kleemola</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Jousilahti</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Pietinen</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Vartiainen</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Tuomilehto</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Coffee consumption and the risk of coronary heart disease and death</article-title>
+					<source>Arch Intern Med</source>
+					<year>2000</year>
+					<month>12</month>
+					<day>11-25</day>
+					<volume>160</volume>
+					<issue>22</issue>
+					<fpage>3393</fpage>
+					<lpage>3400</lpage>
+					<pub-id pub-id-type="pmid">11112231</pub-id>
+					<pub-id pub-id-type="doi">10.1001/archinte.160.22.3393</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref002">
+				<label>2</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ding</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Bhupathiraju</surname>
+							<given-names>SN</given-names>
+						</name>
+						<name>
+							<surname>Satija</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>van Dam</surname>
+							<given-names>RM</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>FB</given-names>
+						</name>
+					</person-group>
+					<article-title>Long-term coffee consumption and risk of cardiovascular disease: a systematic review and a dose-response meta-analysis of prospective cohort studies</article-title>
+					<source>Circulation</source>
+					<year>2014</year>
+					<month>02</month>
+					<day>11</day>
+					<volume>129</volume>
+					<issue>6</issue>
+					<fpage>643</fpage>
+					<lpage>659</lpage>
+					<pub-id pub-id-type="pmid">24201300</pub-id>
+					<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.113.005925</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref003">
+				<label>3</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Noh</surname>
+							<given-names>HM</given-names>
+						</name>
+						<name>
+							<surname>Park</surname>
+							<given-names>YS</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>JH</given-names>
+						</name>
+					</person-group>
+					<article-title>Coffee consumption and coronary heart disease risk using the Framingham risk score</article-title>
+					<source>Asia Pac J Clin Nutr</source>
+					<year>2017</year>
+					<volume>26</volume>
+					<issue>5</issue>
+					<fpage>931</fpage>
+					<lpage>938</lpage>
+					<pub-id pub-id-type="pmid">28802304</pub-id>
+					<pub-id pub-id-type="doi">10.6133/apjcn.082016.05</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref004">
+				<label>4</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>X</given-names>
+						</name>
+						<name>
+							<surname>Yu</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Guo</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Bian</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Si</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Ren</surname>
+							<given-names>X</given-names>
+						</name>
+						<name>
+							<surname>Jiang</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Lv</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>L</given-names>
+						</name>
+						<collab>China Kadoorie Biobank Collaborative Group</collab>
+					</person-group>
+					<article-title>Tea consumption and risk of ischaemic heart disease</article-title>
+					<source>Heart</source>
+					<year>2017</year>
+					<month>05</month>
+					<volume>103</volume>
+					<issue>10</issue>
+					<fpage>783</fpage>
+					<lpage>789</lpage>
+					<pub-id pub-id-type="pmid">28077466</pub-id>
+					<pub-id pub-id-type="doi">10.1136/heartjnl-2016-310462</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref005">
+				<label>5</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chen</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Ye</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Pang</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Xiang</surname>
+							<given-names>Q</given-names>
+						</name>
+					</person-group>
+					<article-title>Tea consumption is associated with a reduced risk of coronary heart disease in female but not male populations in Guangzhou, China</article-title>
+					<source>Nutr Res Pract</source>
+					<year>2019</year>
+					<month>10</month>
+					<volume>13</volume>
+					<issue>5</issue>
+					<fpage>393</fpage>
+					<lpage>398</lpage>
+					<pub-id pub-id-type="pmid">31583058</pub-id>
+					<pub-id pub-id-type="doi">10.4162/nrp.2019.13.5.393</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref006">
+				<label>6</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gaeini</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Bahadoran</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Mirmiran</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Azizi</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<article-title>Tea, coffee, caffeine intake and the risk of cardio-metabolic outcomes: findings from a population with low coffee and high tea consumption</article-title>
+					<source>Nutr Metab (Lond)</source>
+					<year>2019</year>
+					<month>05</month>
+					<day>03</day>
+					<volume>16</volume>
+					<elocation-id>28</elocation-id>
+					<pub-id pub-id-type="pmid">31073321</pub-id>
+					<pub-id pub-id-type="doi">10.1186/s12986-019-0355-6</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref007">
+				<label>7</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vlachopoulos</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Alexopoulos</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Dima</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Aznaouridis</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Andreadou</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Stefanadis</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Acute effect of black and green tea on aortic stiffness and wave reflections</article-title>
+					<source>J Am Coll Nutr</source>
+					<year>2006</year>
+					<month>06</month>
+					<volume>25</volume>
+					<issue>3</issue>
+					<fpage>216</fpage>
+					<lpage>223</lpage>
+					<pub-id pub-id-type="pmid">16766780</pub-id>
+					<pub-id pub-id-type="doi">10.1080/07315724.2006.10719535</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref008">
+				<label>8</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grassi</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Draijer</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Desideri</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Mulder</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Ferri</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Black tea lowers blood pressure and wave reflections in fasted and postprandial conditions in hypertensive patients: A randomised study</article-title>
+					<source>Nutrients</source>
+					<year>2015</year>
+					<month>02</month>
+					<day>04</day>
+					<volume>7</volume>
+					<issue>2</issue>
+					<fpage>1037</fpage>
+					<lpage>1051</lpage>
+					<pub-id pub-id-type="pmid">25658240</pub-id>
+					<pub-id pub-id-type="doi">10.3390/nu7021037</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref009">
+				<label>9</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hodgson</surname>
+							<given-names>JM</given-names>
+						</name>
+						<name>
+							<surname>Puddey</surname>
+							<given-names>IB</given-names>
+						</name>
+						<name>
+							<surname>Burke</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Beilin</surname>
+							<given-names>LJ</given-names>
+						</name>
+						<name>
+							<surname>Jordan</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>Effects on blood pressure of drinking green and black tea</article-title>
+					<source>J Hypertens</source>
+					<year>1999</year>
+					<month>04</month>
+					<volume>17</volume>
+					<issue>4</issue>
+					<fpage>457</fpage>
+					<lpage>463</lpage>
+					<pub-id pub-id-type="pmid">10404946</pub-id>
+					<pub-id pub-id-type="doi">10.1097/00004872-199917040-00002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref010">
+				<label>10</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mahmud</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Feely</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Acute effect of caffeine on arterial stiffness and aortic pressure waveform</article-title>
+					<source>Hypertension</source>
+					<year>2001</year>
+					<month>08</month>
+					<volume>38</volume>
+					<issue>2</issue>
+					<fpage>227</fpage>
+					<lpage>231</lpage>
+					<pub-id pub-id-type="pmid">11509481</pub-id>
+					<pub-id pub-id-type="doi">10.1161/01.hyp.38.2.227</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref011">
+				<label>11</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vlachopoulos</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Panagiotakos</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Ioakeimidis</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Dima</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Stefanadis</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Chronic coffee consumption has a detrimental effect on aortic stiffness and wave reflections</article-title>
+					<source>Am J Clin Nutr</source>
+					<year>2005</year>
+					<month>06</month>
+					<volume>81</volume>
+					<issue>6</issue>
+					<fpage>1307</fpage>
+					<lpage>1312</lpage>
+					<pub-id pub-id-type="pmid">15941880</pub-id>
+					<pub-id pub-id-type="doi">10.1093/ajcn/81.6.1307</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref012">
+				<label>12</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Panagiotakos</surname>
+							<given-names>DB</given-names>
+						</name>
+						<name>
+							<surname>Pitsavos</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Chrysohoou</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Kokkinos</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Toutouzas</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Stefanadis</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>The J-shaped effect of coffee consumption on the risk of developing acute coronary syndromes: the CARDIO2000 case-control study</article-title>
+					<source>J Nutr</source>
+					<year>2003</year>
+					<month>10</month>
+					<volume>133</volume>
+					<issue>10</issue>
+					<fpage>3228</fpage>
+					<lpage>3232</lpage>
+					<pub-id pub-id-type="pmid">14519815</pub-id>
+					<pub-id pub-id-type="doi">10.1093/jn/133.10.3228</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref013">
+				<label>13</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Geethavani</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Rameswarudu</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Reddy</surname>
+							<given-names>RR</given-names>
+						</name>
+					</person-group>
+					<article-title>Effect of caffeine on heart rate and blood pressure</article-title>
+					<source>International Journal of Scientific and Research Publications</source>
+					<year>2014</year>
+					<volume>4</volume>
+					<issue>2</issue>
+					<fpage>1</fpage>
+					<lpage>2</lpage>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref014">
+				<label>14</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Noguchi</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Matsuzaki</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Sakanashi</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Hamadate</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Uchida</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Kina-Tanada</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Kubota</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Nakasone</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Sakanashi</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Ueda</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Masuzaki</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Ishiuchi</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Ohya</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Tsutsui</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Effect of caffeine contained in a cup of coffee on microvascular function in healthy subjects</article-title>
+					<source>J Pharmacol Sci</source>
+					<year>2015</year>
+					<month>02</month>
+					<volume>127</volume>
+					<issue>2</issue>
+					<fpage>217</fpage>
+					<lpage>222</lpage>
+					<pub-id pub-id-type="pmid">25727960</pub-id>
+					<pub-id pub-id-type="doi">10.1016/j.jphs.2015.01.003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref015">
+				<label>15</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Freedman</surname>
+							<given-names>ND</given-names>
+						</name>
+						<name>
+							<surname>Park</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Abnet</surname>
+							<given-names>CC</given-names>
+						</name>
+						<name>
+							<surname>Hollenbeck</surname>
+							<given-names>AR</given-names>
+						</name>
+						<name>
+							<surname>Sinha</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>Association of coffee drinking with total and cause-specific mortality</article-title>
+					<source>N Engl J Med</source>
+					<year>2012</year>
+					<month>05</month>
+					<day>17</day>
+					<volume>366</volume>
+					<issue>20</issue>
+					<fpage>1891</fpage>
+					<lpage>1904</lpage>
+					<pub-id pub-id-type="pmid">22591295</pub-id>
+					<pub-id pub-id-type="doi">10.1056/NEJMoa1112010</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref016">
+				<label>16</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hedrick</surname>
+							<given-names>VE</given-names>
+						</name>
+						<name>
+							<surname>Comber</surname>
+							<given-names>DL</given-names>
+						</name>
+						<name>
+							<surname>Estabrooks</surname>
+							<given-names>PA</given-names>
+						</name>
+						<name>
+							<surname>Savla</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Davy</surname>
+							<given-names>BM</given-names>
+						</name>
+					</person-group>
+					<article-title>The beverage intake questionnaire: determining initial validity and reliability</article-title>
+					<source>J Am Diet Assoc</source>
+					<year>2010</year>
+					<month>08</month>
+					<volume>110</volume>
+					<issue>8</issue>
+					<fpage>1227</fpage>
+					<lpage>1232</lpage>
+					<pub-id pub-id-type="pmid">20656099</pub-id>
+					<pub-id pub-id-type="doi">10.1016/j.jada.2010.05.005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref017">
+				<label>17</label>
+				<element-citation publication-type="book" publication-format="print">
+					<person-group person-group-type="author">
+						<collab>National Institute of Nutrition</collab>
+					</person-group>
+					<source>Dietary guidelines for Indians – A manual</source>
+					<edition>2nd ed</edition>
+					<publisher-loc>Hyderabad</publisher-loc>
+					<publisher-name>National Institute of Nutrition, Indian Council of Medical Research</publisher-name>
+					<year>2011</year>
+					<size units="page">127 p</size>
+					<comment>Available from:
+						<uri>https://www.nin.res.in/downloads/DietaryGuidelinesforNINwebsite.pdf</uri>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref018">
+				<label>18</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Steffen</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Kuhle</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Hensrud</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Erwin</surname>
+							<given-names>PJ</given-names>
+						</name>
+						<name>
+							<surname>Murad</surname>
+							<given-names>MH</given-names>
+						</name>
+					</person-group>
+					<article-title>The effect of coffee consumption on blood pressure and the development of hypertension: a systematic review and meta-analysis</article-title>
+					<source>J Hypertens</source>
+					<year>2012</year>
+					<month>12</month>
+					<volume>30</volume>
+					<issue>12</issue>
+					<fpage>2245</fpage>
+					<lpage>2254</lpage>
+					<pub-id pub-id-type="pmid">23032138</pub-id>
+					<pub-id pub-id-type="doi">10.1097/HJH.0b013e3283588d73</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref019">
+				<label>19</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jee</surname>
+							<given-names>SH</given-names>
+						</name>
+						<name>
+							<surname>He</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Whelton</surname>
+							<given-names>PK</given-names>
+						</name>
+						<name>
+							<surname>Suh</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Klag</surname>
+							<given-names>MJ</given-names>
+						</name>
+					</person-group>
+					<article-title>The effect of chronic coffee drinking on blood pressure: a meta-analysis of controlled clinical trials</article-title>
+					<source>Hypertension</source>
+					<year>1999</year>
+					<month>02</month>
+					<volume>33</volume>
+					<issue>2</issue>
+					<fpage>647</fpage>
+					<lpage>652</lpage>
+					<pub-id pub-id-type="pmid">10024321</pub-id>
+					<pub-id pub-id-type="doi">10.1161/01.hyp.33.2.647</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref020">
+				<label>20</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vita</surname>
+							<given-names>JA</given-names>
+						</name>
+					</person-group>
+					<article-title>Tea consumption and cardiovascular disease: effects on endothelial function</article-title>
+					<source>J Nutr</source>
+					<year>2003</year>
+					<month>10</month>
+					<volume>133</volume>
+					<issue>10</issue>
+					<fpage>3293S</fpage>
+					<lpage>3297S</lpage>
+					<pub-id pub-id-type="pmid">14519828</pub-id>
+					<pub-id pub-id-type="doi">10.1093/jn/133.10.3293S</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref021">
+				<label>21</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kokubo</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Iso</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Saito</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Yamagishi</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Yatsuya</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Ishihara</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Inoue</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Tsugane</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>The impact of green tea and coffee consumption on the reduced risk of stroke incidence in Japanese population: the Japan public health center-based study cohort</article-title>
+					<source>Stroke</source>
+					<year>2013</year>
+					<month>05</month>
+					<volume>44</volume>
+					<issue>5</issue>
+					<fpage>1369</fpage>
+					<lpage>1374</lpage>
+					<pub-id pub-id-type="pmid">23493733</pub-id>
+					<pub-id pub-id-type="doi">10.1161/STROKEAHA.111.677500</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref022">
+				<label>22</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tian</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Lv</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Jin</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Yu</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Guo</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Bian</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Shen</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>L</given-names>
+						</name>
+						<collab>China Kadoorie Biobank Collaborative Group</collab>
+					</person-group>
+					<article-title>Tea consumption and risk of stroke in Chinese adults: a prospective cohort study of 0.5 million men and women</article-title>
+					<source>Am J Clin Nutr</source>
+					<year>2020</year>
+					<month>01</month>
+					<day>01</day>
+					<volume>111</volume>
+					<issue>1</issue>
+					<fpage>197</fpage>
+					<lpage>206</lpage>
+					<pub-id pub-id-type="pmid">31711152</pub-id>
+					<pub-id pub-id-type="doi">10.1093/ajcn/nqz274</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref023">
+				<label>23</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Noordzij</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Uiterwaal</surname>
+							<given-names>CS</given-names>
+						</name>
+						<name>
+							<surname>Arends</surname>
+							<given-names>LR</given-names>
+						</name>
+						<name>
+							<surname>Kok</surname>
+							<given-names>FJ</given-names>
+						</name>
+						<name>
+							<surname>Grobbee</surname>
+							<given-names>DE</given-names>
+						</name>
+						<name>
+							<surname>Geleijnse</surname>
+							<given-names>JM</given-names>
+						</name>
+					</person-group>
+					<article-title>Blood pressure response to chronic intake of coffee and caffeine: a meta-analysis of randomized controlled trials</article-title>
+					<source>J Hypertens</source>
+					<year>2005</year>
+					<month>05</month>
+					<volume>23</volume>
+					<issue>5</issue>
+					<fpage>921</fpage>
+					<lpage>928</lpage>
+					<pub-id pub-id-type="pmid">15834273</pub-id>
+					<pub-id pub-id-type="doi">10.1097/01.hjh.0000166828.94699.1d</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="amp.2020v4i1.94611.ref024">
+				<label>24</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>CH</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>YC</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>JS</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>YH</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>CT</given-names>
+						</name>
+						<name>
+							<surname>Lu</surname>
+							<given-names>FH</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>CJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Increased tea consumption is associated with decreased arterial stiffness in a Chinese population</article-title>
+					<source>PLoS ONE</source>
+					<year>2014</year>
+					<month>01</month>
+					<day>22</day>
+					<volume>9</volume>
+					<issue>1</issue>
+					<elocation-id>e86022</elocation-id>
+					<pub-id pub-id-type="pmid">24465848</pub-id>
+					<pub-id pub-id-type="doi">10.1371/journal.pone.0086022</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
